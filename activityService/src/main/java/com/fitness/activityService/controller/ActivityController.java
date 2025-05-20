@@ -34,5 +34,4 @@ public class ActivityController {
         return ResponseEntity.ok(activityService.getUserActivity(activityId));
     }
 
-
 }
