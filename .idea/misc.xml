@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/activityService/pom.xml" />
         <option value="$PROJECT_DIR$/ai_fitness_microservice/pom.xml" />
         <option value="$PROJECT_DIR$/server/pom.xml" />
+        <option value="$PROJECT_DIR$/userService/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka/pom.xml" />
       </list>
     </option>
   </component>
